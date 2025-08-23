@@ -128,7 +128,7 @@ a {
 }
 
 .bg-registration {
-    background: linear-gradient(rgba(0, 0, 0, .8), rgba(0, 0, 0, .8)), url(../Img/reg.jpg), no-repeat center center;
+    background: linear-gradient(rgba(0, 0, 0, .8), rgba(0, 0, 0, .8)), url(../img/reg.jpg), no-repeat center center;
     background-size: cover;
 }
 
@@ -223,6 +223,6 @@ ul li {
 }
 
 .page-header {
-    background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url(/Img/page-header.jpg), no-repeat center center;
+    background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url(../img/page-header.jpg), no-repeat center center;
     background-size: cover;
 }
